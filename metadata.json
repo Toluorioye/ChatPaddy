@@ -1,0 +1,6 @@
+{
+  "name": "ChatPaddy",
+  "description": "Chat like friends. Build like pros. Modern real-time messaging platform with direct chats, groups, voice notes, rich media, and AI intelligence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
